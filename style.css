@@ -18,6 +18,7 @@
 		left: -48px;	
 		top: 101px;		
 		z-index: 100;
+		background-size:cover;
 	}
 	.next {
 		background:url(image/next.gif) no-repeat;
@@ -27,6 +28,7 @@
 		right: -48px;	
 		top: 101px;		
 		z-index:100;
+		background-size:cover;
 	}
 	.abgne_product_arrow_silder ul li {
 		position: absolute;
